@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-Simple app to drwa on a flutter canvas, 
+Simple app to draw on a flutter canvas, 
